@@ -4,7 +4,7 @@ a temporary repository for demo github
 ## shopping list:
 * apple 
 * orange
-* Tofu
+* 2Tofu
 * cucumber
 
 
